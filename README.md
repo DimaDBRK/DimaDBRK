@@ -9,7 +9,7 @@
 Full Stack Developer skilled in JavaScript and Python programming, with a background in Telecommunication and Mobile Devices. Demonstrates a balanced blend of teamwork and personal accountability. Adept at problem-solving and analytical thinking. Actively seeking software engineering roles that foster professional growth and offer opportunities to contribute significantly to business objectives.
 
 ## Technical Skills
-Python, JavaScript, Django, React, Node.js, HTML, CSS, SQL Databases, Trello, Git, GitHub, Testing (QA)
+Python, JavaScript, Django, Flask, React, Node.js, HTML, CSS, SQL Databases, Trello, Git, GitHub, Testing (QA), PyTest, Selenium
 
 ## Technical Projects
 
@@ -31,5 +31,5 @@ Python, JavaScript, Django, React, Node.js, HTML, CSS, SQL Databases, Trello, Gi
 - **Flask + React App**
   - Aims to augment a basic authentication system with advanced features that allow users to create organizations and invite other registered users to join these organizations.
   - Backend: Flask + Frontend: React and Material UI
-  - The tests encompass both backend and frontend automation test cases, implemented using Pytest. For the frontend, Selenium WebDriver is utilized.
+  - The tests encompass both backend and frontend automation test cases, implemented using Pytest. For the frontend, Selenium is utilized.
   - [GitHub Repository](https://github.com/DimaDBRK/AuthFS)
