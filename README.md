@@ -26,3 +26,9 @@ Python, JavaScript, Django, React, Node.js, HTML, CSS, SQL Databases, Trello, Gi
   - Created a dynamic data visualization dashboard utilizing React and Material UI on the frontend, and Node.js and ElephantSQL for the backend.
   - Implemented an authentication system with JWT.
   - [GitHub Repository](https://github.com/DimaDBRK/FineDashboard)
+
+- **Flask + React App**
+  - Aims to augment a basic authentication system with advanced features that allow users to create organizations and invite other registered users to join these organizations.
+  - Backend: Flask + Frontend: React and Material UI
+  - The tests encompass both backend and frontend automation test cases, implemented using Pytest. For the frontend, Selenium WebDriver is utilized.
+  - [GitHub Repository](https://github.com/DimaDBRK/AuthFS)
