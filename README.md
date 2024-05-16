@@ -13,10 +13,23 @@ Python, JavaScript, Django, Flask, React, Node.js, HTML, CSS, SQL Databases, Tre
 
 ## Technical Projects
 
-- **Full Stack Fine Dashboard App**
+- **Fine Dashboard App**
   - Created a dynamic data visualization dashboard utilizing React and Material UI on the frontend, and Node.js and ElephantSQL for the backend.
   - Implemented an authentication system with JWT.
   - [GitHub Repository](https://github.com/DimaDBRK/FineDashboard)
+
+- **Ethereum blockchain**
+  - The application allows create multiple Ethereum accounts and make payments between accounts
+  - Backend: Nest.js + SQLite + ethers.js; Frontend: React + Axios + MUI
+  - Blockchain: Ganache - personal Ethereum blockchain
+  - Tests: combined unit and integration test cases for account.service and payment.service
+  - Authentication System: for demo on modules - passport-local, @nestjs/passport, @nestjs/jwt, passport-jwt
+  - [GitHub Repository](https://github.com/DimaDBRK/NilosETH)
+
+- **Restaurant Menu Manger**
+  - The application allows viewing and editing the restaurant menu through a web interface
+  - Frontend: React + Axios; Backend: Node.js + PostgreSQL + Prisma
+  - [GitHub Repository](https://github.com/DimaDBRK/MenuManager)
 
 - **JavaScript Words App**
   - Developed an interactive application enabling users to add words to a database and play word-related games.
