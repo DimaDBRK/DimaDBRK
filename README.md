@@ -9,7 +9,7 @@
 Full Stack Developer skilled in JavaScript and Python programming, with a background in Telecommunication and Mobile Devices. Demonstrates a balanced blend of teamwork and personal accountability. Adept at problem-solving and analytical thinking. Actively seeking software engineering roles that foster professional growth and offer opportunities to contribute significantly to business objectives.
 
 ## Technical Skills
-Python, JavaScript, Django, Flask, React, Node.js, HTML, CSS, SQL Databases, Trello, Git, GitHub, Testing (QA), PyTest, Selenium
+ JavaScript, Node.js, Nest.js, Python, Django, Flask, React, HTML, CSS, SQL Databases, Trello, Git, GitHub, Testing (QA, Automation), PyTest, Selenium
 
 ## Technical Projects
 
