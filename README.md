@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-# Dmitry Dubrov
-[LinkedIn](https://www.linkedin.com/in/dmitry-dubrov/)
-
-[Portfolio](https://dimadbrk.github.io/) 
+# Dmitry 
 
 ## Summary
 Full Stack Developer skilled in JavaScript and Python programming, with a background in Telecommunication and Mobile Devices. Demonstrates a balanced blend of teamwork and personal accountability. Adept at problem-solving and analytical thinking. Actively seeking software engineering roles that foster professional growth and offer opportunities to contribute significantly to business objectives.
@@ -30,11 +27,6 @@ Full Stack Developer skilled in JavaScript and Python programming, with a backgr
   - The application allows viewing and editing the restaurant menu through a web interface
   - Frontend: React + Axios; Backend: Node.js + PostgreSQL + Prisma
   - [GitHub Repository](https://github.com/DimaDBRK/MenuManager)
-
-- **JavaScript Words App**
-  - Developed an interactive application enabling users to add words to a database and play word-related games.
-  - Frontend: JavaScript, HTML, CSS; Backend: Django Rest API, PostgreSQL Database.
-  - [GitHub Repository](https://github.com/DimaDBRK/DI_Hackathon2)
 
 - **Python Weather App with User-friendly Interface**
   - Designed a weather application featuring a user-friendly Tkinter interface and a user registration database.
